@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @angelkevin
 - 👀 I’m interested in sleep
-- 🌱 I’m currently learning hadoop
 - 📫 How to reach me 2215408861@qq.com
 
 <!---
